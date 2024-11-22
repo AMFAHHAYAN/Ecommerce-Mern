@@ -1,11 +1,13 @@
 <h2> Ecommerce-Mern </h2>
-this is my mernstack project for E-commerce Website \n
-this is just simple project we can signup for ADMIN as well as USER \n
-once Signup done we can simply login as Admin and User \n
-ADMIN can perform CRUD on products \n
-ADMIN can see Users and Orders and manage them aswell \n
-USER can simply login and see products and if want to buy that products he/she can simply ADD it to CART\n
+<pre>
+This is my mernstack project for E-commerce Website 
+This is just simple project we can signup for ADMIN as well as USER 
+Once Signup done we can simply login as Admin and User
+ADMIN can perform CRUD on products 
+ADMIN can see Users and Orders and manage them aswell 
+USER can simply login and see products and if want to buy that products he/she can simply ADD it to CART
 USER can checkout products 
+</pre>
 <br>
 <h3>RUN THIS PROJECT :- </h3>
 <ul>
