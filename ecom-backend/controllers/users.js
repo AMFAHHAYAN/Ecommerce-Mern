@@ -72,7 +72,7 @@ export const login = async (req, res) => {
     console.log(isMatch);
 
     if (isMatch) {
-      const token = jwt.sign({ email, UserRole }, "KEY", { expiresIn: "10hr" });
+      const token = jwt.sign({ email, UserRole }, "KEY", { expiresIn: "1hr" });
       return res.status(HTTP_CODES.SUCCESS).json({
         message: MESSAGES.LOGIN.SUCCESS,
         role: user.role,
