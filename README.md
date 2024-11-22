@@ -5,7 +5,8 @@ This is just simple project we can signup for ADMIN as well as USER
 Once Signup done we can simply login as Admin and User
 ADMIN can perform CRUD on products 
 ADMIN can see Users and Orders and manage them aswell 
-USER can simply login and see products and if want to buy that products he/she can simply ADD it to CART
+USER can simply login and see products
+USER can simply ADD it to CART
 USER can checkout products 
 </pre>
 <br>
